@@ -1,7 +1,7 @@
 # Site settings
 title: ICM Quizzes
 description: A website about ICM Quizzes
-url: "https://yining1023.github.io/cards-jekyll-template" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://yining1023.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: ICM
